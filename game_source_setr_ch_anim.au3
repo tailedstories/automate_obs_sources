@@ -1,0 +1,1 @@
+RunWait ( @ComSpec & " /c " & 'powershell.exe -ExecutionPolicy bypass D:\creative\obs\game_source_setr_ch_anim.ps1')
